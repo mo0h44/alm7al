@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "حسابات المحل",
+    "slug": "customer-shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "customershop",
+    "android": {
+      "package": "com.customershop.app",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
